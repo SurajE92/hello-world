@@ -1,2 +1,6 @@
 # hello-world
-Ideas and proposals
+Ideas
+
+Hi everyone,
+
+Welcome to my first repository.
